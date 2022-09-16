@@ -41,6 +41,8 @@ output: rticles::springer_article
 
 # Introduction {#intro}
 
+the importance of understanding the relationship between atmospheric dust and visibility has been clearly pointed out by many studies[cite].Having established a relationship, visibility data has been converted into dust concentration for wind erosion and dust research[cute baddock]
+
 Your text comes here. Separate text sections with \cite{Mislevy06Cog}.
 
 # Section title {#sec:1}
