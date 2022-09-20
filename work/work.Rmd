@@ -39,9 +39,21 @@ biblio-style: spphys
 output: rticles::springer_article
 ---
 
-# Introduction {#intro}
+# Int {#intro}
 
-the importance of understanding the relationship between atmospheric dust and visibility has been clearly pointed out by many studies[cite].Having established a relationship, visibility data has been converted into dust concentration for wind erosion and dust research[cute baddock]
+#visibility observation (wmo guide),
+
+#importance for aviation and requirement for takeoff and landing (ICAO document)
+
+#losses incurred due to poor visibility (news)
+
+#sources of satellite products for forecasting and shortcomings
+
+#visibility forecasting and importance for aviation/transportation
+
+the importance of understanding the relationship between atmospheric dust and visibility has been clearly pointed out by many studies[cite].Having established a relationship, visibility data has been converted into dust concentration for wind erosion and dust research[@baddock2014]
+
+connections between mineral dust concentration and observed visibility reduction in different regions of the word, e.g Australia [@baddock2014a]
 
 Your text comes here. Separate text sections with \cite{Mislevy06Cog}.
 
