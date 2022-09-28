@@ -1,5 +1,3 @@
 data/
-nc_files/
 writing/
-*.csv
 notebooks/.ipynb_checkpoints
